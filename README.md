@@ -4,7 +4,7 @@
 UX/UI Fördjupning\
 Höstterminen 2023\
 20 YHP
-
+\
 Ansvarig lärare: Rachel Richter\
 E-post: rachel.richter@zocom.se 
 
@@ -17,7 +17,9 @@ E-post: rachel.richter@zocom.se
 
 ## Bakgrund
 Du är anställd som frontendutvecklare på ett företag som fokuserar på att skapa användbara och engagerande webbapplikationer. 
+\
 Företaget har nyligen inlett ett samarbete med ett nöjesfält som vill ha en kreativ webbapplikation för att marknadsföra sina attraktioner och evenemang. De är särskilt intresserade av att använda avancerade animationstekniker för att göra webbplatsen engagerande och underhållande för besökarna. 
+\
 Nöjesfältet vill skapa en webbapplikation som ger besökarna en känsla av att vara i nöjesfältet, även när de besöker webbplatsen online!
 
 
@@ -26,11 +28,11 @@ Ditt uppdrag är att utgå från Animationens 12 grundprinciper,  ett JS-bibliot
 
 
 ## Kravspecifikation
-Webbapplikationen ska ha minst tre sidor med varierande innehåll.
-Varje sida måste innehålla minst en interaktiv användarupplevelse som förbättras med hjälp av en animation.
-Använd Animationens 12 grundprinciper som vägledning för skapandet av övergångar och animationer.
-Menyn ska animeras med hjälp av JS-biblioteket. 
-En knapp ska animeras organiskt vid hover och klick
+* Webbapplikationen ska ha minst tre sidor med varierande innehåll.
+* Varje sida måste innehålla minst en interaktiv användarupplevelse som förbättras med hjälp av en animation.
+* Använd Animationens 12 grundprinciper som vägledning för skapandet av övergångar och animationer.
+* Menyn ska animeras med hjälp av JS-biblioteket. 
+* En knapp ska animeras organiskt vid hover och klick
 
 
 ## Tekniska krav
@@ -45,7 +47,7 @@ En knapp ska animeras organiskt vid hover och klick
 Webbapplikationen uppfyller alla kravspecifikationer och de tekniska kraven.
 
 ### För Väl Godkänt:
-Samtliga krav för betyget Godkänt är uppfyllda. 
+Samtliga krav för betyget Godkänt är uppfyllda.\ 
 Öppna en modal med 2-stegs animationer (när ett steg är färdigt ska nästa köras)
 
 ## Handledning
@@ -57,7 +59,8 @@ Länk till ert Github repo lämnas in via Azomo senast 2023-11-03, kl 23:59.
 
 
 ## Bedömning
-Bedömning av ditt arbete sker genom redovisning av din webbplats. Redovisningen bör inte vara längre än 10 minuter lång och ska beröra följande punkter:
+Bedömning av ditt arbete sker genom redovisning av din webbplats.\ 
+Redovisningen bör inte vara längre än 10 minuter lång och ska beröra följande punkter:
 
 * Visa upp din färdiga sida
 * Berätta hur du har kommit fram till din design
