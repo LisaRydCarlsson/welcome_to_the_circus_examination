@@ -1,11 +1,11 @@
 # welcome_to_the_circus_examination
 
 # Individuell Examination
-UX/UI Fördjupning
-Höstterminen 2023
+UX/UI Fördjupning\
+Höstterminen 2023\
 20 YHP
 
-Ansvarig lärare: Rachel Richter
+Ansvarig lärare: Rachel Richter\
 E-post: rachel.richter@zocom.se 
 
 
