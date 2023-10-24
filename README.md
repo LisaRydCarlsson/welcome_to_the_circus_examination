@@ -3,8 +3,8 @@
 # Individuell Examination
 UX/UI Fördjupning\
 Höstterminen 2023\
-20 YHP
-\
+20 YHP\
+ \
 Ansvarig lärare: Rachel Richter\
 E-post: rachel.richter@zocom.se 
 
@@ -47,7 +47,7 @@ Ditt uppdrag är att utgå från Animationens 12 grundprinciper,  ett JS-bibliot
 Webbapplikationen uppfyller alla kravspecifikationer och de tekniska kraven.
 
 ### För Väl Godkänt:
-Samtliga krav för betyget Godkänt är uppfyllda.\ 
+Samtliga krav för betyget Godkänt är uppfyllda. \ 
 Öppna en modal med 2-stegs animationer (när ett steg är färdigt ska nästa köras)
 
 ## Handledning
@@ -59,7 +59,7 @@ Länk till ert Github repo lämnas in via Azomo senast 2023-11-03, kl 23:59.
 
 
 ## Bedömning
-Bedömning av ditt arbete sker genom redovisning av din webbplats.\ 
+Bedömning av ditt arbete sker genom redovisning av din webbplats. \ 
 Redovisningen bör inte vara längre än 10 minuter lång och ska beröra följande punkter:
 
 * Visa upp din färdiga sida
