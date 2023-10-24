@@ -1,0 +1,18 @@
+:root {
+    --bg-color: #000000;
+    --primary-detail-color: #ffffff;
+  }
+  
+  body {
+    background-color: var(--bg-color);
+    color: var(--primary-detail-color);
+  }
+
+  #enter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
