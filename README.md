@@ -47,7 +47,7 @@ Ditt uppdrag är att utgå från Animationens 12 grundprinciper,  ett JS-bibliot
 Webbapplikationen uppfyller alla kravspecifikationer och de tekniska kraven.
 
 ### För Väl Godkänt:
-Samtliga krav för betyget Godkänt är uppfyllda. \ 
+Samtliga krav för betyget Godkänt är uppfyllda. <br/> 
 Öppna en modal med 2-stegs animationer (när ett steg är färdigt ska nästa köras)
 
 ## Handledning
@@ -59,7 +59,7 @@ Länk till ert Github repo lämnas in via Azomo senast 2023-11-03, kl 23:59.
 
 
 ## Bedömning
-Bedömning av ditt arbete sker genom redovisning av din webbplats. \ 
+Bedömning av ditt arbete sker genom redovisning av din webbplats. <br/>
 Redovisningen bör inte vara längre än 10 minuter lång och ska beröra följande punkter:
 
 * Visa upp din färdiga sida
