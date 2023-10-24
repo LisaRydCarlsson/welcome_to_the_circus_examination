@@ -3,7 +3,7 @@ const enterSection = document.getElementById('enter');
 
 // Skapa ett h2-element för "Welcome to the"
 const h2Element = document.createElement('h2');
-h2Element.textContent = 'Welcome to the';
+h2Element.textContent = 'welcome to the';
 
 // Skapa ett h1-element för "CirkuS"
 const h1Element = document.createElement('h1');
